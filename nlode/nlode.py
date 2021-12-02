@@ -5,9 +5,9 @@ import matplotlib.pyplot as plt
 B = 14 # T
 l = 0.2 # m
 a = 1 # H/m
-L0 = 8 # H
+L0 = 10 # H
 m = 0.1  # kg
-R = 3 # Ohm
+R = 1 # Ohm
 E = 1 # V
 
 XMAX = 10
